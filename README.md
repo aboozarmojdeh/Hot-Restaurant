@@ -17,6 +17,13 @@ Basic app demonstrating Node and Express with jQuery. Overall purpose is to help
 * Run the command `npm install` to download the required dependencies
 * Then run the command `node server.js` to run the program
 
+### Author: Aboozar Mojdeh
+- - -
+* https://www.linkedin.com/in/aboozar-mojdeh
+* https://github.com/aboozarmojdeh
+* http://www.webyouweb.com
+- - -
+
 
 
 
